@@ -26,6 +26,7 @@ Tenho experiência com as seguintes linguagens de programação e ferramentas:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+￼
 
 Meu inglês é avançado :earth_americas:
 Minha língua nativa é o português :brazil:
